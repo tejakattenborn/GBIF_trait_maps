@@ -4,6 +4,7 @@
 
 Here you will find trait maps based on [GBIF](https://www.gbif.org/) data and traits found in the [TRY](https://try-db.org/TryWeb/Home.php) gap-filled dataset in GeoTIFF format at a 0.2°, 0.5°, and 2° resolutions.
 The methodology follows the approach described in Wolf et al. 2022, Nature Ecology and Evolution [https://doi.org/10.1038/s41559-022-01904-x](https://doi.org/10.1038/s41559-022-01904-x)
+Additional ressources can be found on Sophie Wolfs [repository](https://github.com/sojwolf/iNaturalist_traits/tree/main).
 
 Each folder also contains the sPlotOpen-based maps for all respective traits and resolutions.
 The folder *traitmaps* contains .grd files for each trait (see list below) with multiple layers: **observation count, mean, median, standard deviation, 05% quantile, 95% quantile**. These can be loaded as a brick of layers in R as follows:
@@ -15,12 +16,13 @@ test <- brick("file.grd")
 plot(test)
 ```
 
-The subfolders in the *traitmaps* directory are organized as follows:
-* The first subfolder classifies the plant functional types integrated with
-	* *Shrub_Tree_Grass* including species of all plant functional types.
-	* *Shrub_Tree* including shrub and tree species.
-	* *Grass* for grassland species only.
+The files in the *traitmaps* directory are organized as follows:
+* The first subfolder categorizes trait maps by plant functional types integrated, where
+	* *Shrub_Tree_Grass* are trait maps based on species of all plant functional types.
+	* *Shrub_Tree* are trait maps based on shrub and tree species.
+	* *Grass* are trait maps for grassland species only.
 * Each of these subolders contains subfolders for map products at 0.2, 0.5 and 2.0 degrees (longitude, latitude)
+* The file name of each trait maps contain an *X<ID>, which corresponds to the TRY ID for each trait. The names for each trait are listed below and in [trait_id_and_name.csv](https://github.com/tejakattenborn/GBIF_trait_maps/blob/main/trait_id_and_name.csv)
 
 ## Data
 

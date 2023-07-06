@@ -1,0 +1,34 @@
+TRY_trait_ID	TRY_trait_name 
+X4	Stem specific density (SSD) or wood density (stem dry mass per stem fresh volume) 
+X6	Root rooting depth 
+X11	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA) 
+X13	Leaf carbon (C) content per leaf dry mass 
+X14	Leaf nitrogen (N) content per leaf dry mass 
+X15	Leaf phosphorus (P) content per leaf dry mass 
+X18	Plant height 
+X21	Stem diameter 
+X26	Seed dry mass 
+X27	Seed length 
+X46	Leaf thickness 
+X47	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC) 
+X50	Leaf nitrogen (N) content per leaf area 
+X55	Leaf dry mass (single leaf) 
+X78	Leaf nitrogen (N) isotope signature (delta 15N) 
+X95	Seed germination rate (germination efficiency) 
+X138	Seed number per reproduction unit 
+X144	Leaf length 
+X145	Leaf width 
+X146	Leaf carbon/nitrogen (C/N) ratio 
+X163	Leaf fresh mass 
+X169	Stem conduit density (vessels and tracheids) 
+X223	Species genotype: chromosome number 
+X224	Species genotype: chromosome cDNA content 
+X237	Dispersal unit length 
+X281	Stem conduit diameter (vessels, tracheids) 
+X282	Wood vessel element length; stem conduit (vessel and tracheids) element length 
+X289	Wood fiber lengths 
+X1080	Root length per root dry mass (specific root length, SRL) 
+X3112	Leaf area (in case of compound leaves: leaf, undefined if petiole in- or excluded) 
+X3113	Leaf area (in case of compound leaves: leaflet, undefined if petiole is in- or excluded) 
+X3114	Leaf area (in case of compound leaves: undefined if leaf or leaflet, undefined if petiole is in- or excluded) 
+X3120	Leaf water content per leaf dry mass (not saturated) 

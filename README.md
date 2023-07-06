@@ -2,9 +2,10 @@
 
 ## Trait maps
 
-Here you will find trait maps based on [GBIF](https://www.gbif.org/) data and traits found in the [TRY](https://try-db.org/TryWeb/Home.php) gap-filled dataset in GeoTIFF format at a 0.2°, 0.5°, and 2° resolutions.
+Here you will find global trait maps based on plant observations from [GBIF](https://www.gbif.org/) and [sPlotOpen](https://fmsabatini.github.io/sPlotOpen_Manuscript/), respectively, and traits found in the [TRY](https://try-db.org/TryWeb/Home.php) gap-filled dataset in GeoTIFF format at a 0.2°, 0.5°, and 2° resolutions.
+
 The methodology follows the approach described in Wolf et al. 2022, Nature Ecology and Evolution [https://doi.org/10.1038/s41559-022-01904-x](https://doi.org/10.1038/s41559-022-01904-x)
-Additional ressources can be found on Sophie Wolfs [repository](https://github.com/sojwolf/iNaturalist_traits/tree/main).
+Additional ressources can be found on Sophie Wolf´s [GitHub-repository](https://github.com/sojwolf/iNaturalist_traits/tree/main).
 
 Each folder also contains the sPlotOpen-based maps for all respective traits and resolutions.
 The folder *traitmaps* contains .grd files for each trait (see list below) with multiple layers: **observation count, mean, median, standard deviation, 05% quantile, 95% quantile**. These can be loaded as a brick of layers in R as follows:

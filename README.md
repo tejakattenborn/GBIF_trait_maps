@@ -1,4 +1,4 @@
-# Trait maps based on sample of GBIF database
+# Global trait maps derived from crowd-sourced data (GBIF)
 
 ## Trait maps
 

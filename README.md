@@ -25,7 +25,8 @@ The files in the *traitmaps* directory are organized as follows:
 * Each of these subolders contains subfolders for map products at 0.2, 0.5 and 2.0 degrees (longitude, latitude)
 * The file name of each trait maps contain an *X<ID>, which corresponds to the TRY ID for each trait. The names for each trait are listed below and in [trait_id_and_name.csv](https://github.com/tejakattenborn/GBIF_trait_maps/blob/main/trait_id_and_name.csv)
 
-The trait maps can be cited using the provided citation file and the doi: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8008113.svg)](https://doi.org/10.5281/zenodo.8008113).
+The trait maps can be cited using the provided citation file and the doi:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8008113.svg)](https://doi.org/10.5281/zenodo.8008113).
 
 ## Data & Method
 

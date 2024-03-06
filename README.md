@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/662935076.svg)](https://zenodo.org/doi/10.5281/zenodo.10617813)![image](https://github.com/tejakattenborn/GBIF_trait_maps/assets/38572828/f7963c7a-c1ed-46e6-bfdf-6f9d7d92a252)
+
+
 # Global trait maps derived from crowd-sourced data (GBIF)
 
 ## Trait maps

@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/662935076.svg)]([https://doi.org/10.1111/2041-210X.13968](https://zenodo.org/doi/10.5281/zenodo.10617813))
-
 # Global trait maps derived from crowd-sourced data (GBIF)
 
 ## Trait maps

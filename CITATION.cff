@@ -12,7 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-7848-3725"
 title: "Global trait maps derived from crowd-sourced data (GBIF)"
 version: 0.5
-doi: 10.5281/zenodo.8008012
+doi: doi/10.5281/zenodo.10617813
 date-released: 2023-06-05
 license: MIT
 url: "https://github.com/tejakattenborn/GBIF_trait_maps"
